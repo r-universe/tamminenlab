@@ -1,0 +1,10 @@
+[
+  {
+    "package": "blaster",
+    "oncran": true
+  },
+  {
+    "package": "prider",
+    "oncran": true
+  }
+]
