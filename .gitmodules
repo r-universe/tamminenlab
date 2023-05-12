@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blaster"]
+	path = blaster
+	url = https://github.com/tamminenlab/blaster
+	shallow = true
+	registered = true
