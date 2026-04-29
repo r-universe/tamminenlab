@@ -5,3 +5,6 @@
 [submodule "blaster"]
 	path = blaster
 	url = https://github.com/tamminenlab/blaster
+[submodule "prider"]
+	path = prider
+	url = https://github.com/tamminenlab/prider
